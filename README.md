@@ -15,5 +15,7 @@ In GitHub repository settings:
 - Settings → Pages
 - Source: Deploy from a branch
 - Branch: `main` (or the default branch) / root
+- Custom domain: `halje.ru` (this repo includes `CNAME`)
+- (Recommended) Enforce HTTPS
 
-Then the site will be available at `https://iamhalje.github.io/`.
+Then the site will be available at `https://halje.ru/` (and `github.io` will redirect after domain is attached).
