@@ -6,6 +6,7 @@ Personal landing page for GitHub Pages.
 
 - Update your email in `index.html` (`mailto:your.email@example.com`)
 - Update/verify social links (`github.com/iamhalje`, `linkedin.com/in/halje`)
+- Fill the “Projects” section with real repositories
 
 ## Publishing
 
