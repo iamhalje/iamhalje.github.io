@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iamhalje.github.io/sitemap.xml
